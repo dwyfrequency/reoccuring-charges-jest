@@ -51,3 +51,12 @@ describe('UnsubscribeService', () => {
     });
   });
 });
+/*
+name: spotify
+cnt: 2
+amount: {
+  "amount": [dates, dates, ]
+
+}
+
+*/
